@@ -1,0 +1,18 @@
+Function average: 190.8.
+Container contains 3 elements.
+
+Feature film:
+	title: Harry Potter
+	year: 2002
+	director: Chris Columbus
+
+Documentary film:
+	title: Children of HSE
+	year: 2021
+	duration: 176
+
+Feature film:
+	title: sqsqsq dwdwd
+	year: 2018
+	director: dwodwd wdwd
+

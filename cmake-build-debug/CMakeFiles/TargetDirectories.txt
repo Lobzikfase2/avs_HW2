@@ -1,0 +1,3 @@
+C:/Projects/ABC/Task2/cmake-build-debug/CMakeFiles/Task2.dir
+C:/Projects/ABC/Task2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Projects/ABC/Task2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

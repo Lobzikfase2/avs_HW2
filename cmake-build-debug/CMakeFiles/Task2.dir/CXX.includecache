@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Projects/ABC/Task2/Container.cpp
+Container.h
+C:/Projects/ABC/Task2/Container.h
+
+C:/Projects/ABC/Task2/Container.h
+fstream
+-
+Film.h
+C:/Projects/ABC/Task2/Film.h
+
+C:/Projects/ABC/Task2/Film.h
+fstream
+-
+Random.h
+C:/Projects/ABC/Task2/Random.h
+
+C:/Projects/ABC/Task2/Random.h
+string
+-
+cstdlib
+-
+ctime
+-
+
+C:/Projects/ABC/Task2/main.cpp
+iostream
+-
+cstring
+-
+Container.h
+C:/Projects/ABC/Task2/Container.h
+
